@@ -27,7 +27,11 @@ Different components of the website should all be generally separated by purpose
 ## Social Life
 **People Directory** - Organize your thoughts and feelings about the people you know by having a page for each of them. Write down notes for reminders, and record memories or stories you don't want to forget. Identify what you like and dislike about each person and categorize certain characteristics on scales. 
 
+**Event/Location Directory** - Organize your thoughts and feelings about certain events and locations by having a page for each of them. Track notes, memories, and stories you don't want to forget.
+
 ## Time Management
+**Pomodoro Timer** - Use the Pomodoro technique to provide a timer system to focus work in bursts of 25 minute periods with short breaks in between.
+
 **Google Calendar** - *[NOT SURE IF POSSIBLE]* Connect to your Google calendar and edit it to set aside time for everything.
 
 In the end, with all of the above data stored, the web app should be able to get a good idea of you (me). Not sure what you should be doing at any moment? This web app will tell you what you could be doing, and for how long. I don't really know how feasible this is... and would something like that count as some sort of primitive AI? In theory it will take in all the data you've saved, and data about the current time, process it, and tell you what would most benefit you from doing at the current time, whether its a certain homework item, or working on a far away paper, or reaching out to a friend, or just meditating for 20 minutes. 
